@@ -1,5 +1,5 @@
 STEPS - 
-pip install discord.js
+npm install discord.js
 Enter bot token in the .env file leave rest blank
 For help please do !help
 YOU NEED NODE.JS TO RUN THIS
